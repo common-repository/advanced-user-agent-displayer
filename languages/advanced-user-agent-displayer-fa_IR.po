@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced User Agent Displayer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-24 10:10+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Reza Moallemi <reza.ce84@gmail.com>\n"
+"Language-Team: Reza Moallemi <reza.ce84@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: auad.php:18
+msgid "Advanced User Agent"
+msgstr "تنظیمات AUAD"
+
+#: auad.php:54
+msgid "Settings Saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: auad.php:61
+msgid "Advanced User Agent Displayer Settings"
+msgstr "تنظیمات اطلاعات نظردهندگان"
+
+#: auad.php:62
+msgid "General Options:"
+msgstr "تنظیمات عمومی:"
+
+#: auad.php:66
+msgid "Hide "
+msgstr "آیکن "
+
+#: auad.php:68
+msgid " icons if the browser and user agent are unknown."
+msgstr "را وقتی که سیستم‌عامل و مرورگر نظردهندگان ناشناس است، نمایش نده."
+
+#: auad.php:70
+msgid "Dashboard Options:"
+msgstr "تنظیمات پیش‌خوان:"
+
+#: auad.php:71
+msgid "Show browser and platform icons in the dashboard comments."
+msgstr "آیکن مرورگر و سیستم‌عامل را در نظرات بخش پیش‌خوان نمایش بده."
+
+#: auad.php:72
+msgid "Post Options:"
+msgstr "تنظیمات نوشته‌ها:"
+
+#: auad.php:73
+msgid "Display location:"
+msgstr "محل نمایش:"
+
+#: auad.php:75
+msgid "After comment author name"
+msgstr "بعد از نام نویسنده دیدگاه"
+
+#: auad.php:76
+msgid "After comment date"
+msgstr "بعد از تاریخ دیدگاه"
+
+#: auad.php:77
+msgid "Before comment text"
+msgstr "قبل از متن دیدگاه"
+
+#: auad.php:78
+msgid "After comment text"
+msgstr "بعد از متن دیدگاه"
+
+#: auad.php:81
+msgid "Icon size:"
+msgstr "اندازه آیکن‌ها:"
+
+#: auad.php:90
+msgid "Show browser icon."
+msgstr "آیکن مرورگر را نمایش بده."
+
+#: auad.php:91
+msgid "show platform icon."
+msgstr "آیکن سیستم عامل را نمایش بده."
+
+#: auad.php:93
+msgid "Save Changes"
+msgstr "ذخیره‌ی تغییرات"
+
+#: auad.php:97
+msgid "My other plugins for wordpress:"
+msgstr "دیگر افزونه‌های کاوشگر برای وردپرس:"
+
+#: auad.php:99
+msgid "Google Reader Stats "
+msgstr "آماره‌ی گوگل ریدر"
+
+#: auad.php:100
+#: auad.php:104
+#: auad.php:108
+#: auad.php:112
+#: auad.php:116
+#: auad.php:120
+#: auad.php:124
+msgid "Download"
+msgstr "دریافت"
+
+#: auad.php:101
+msgid "http://www.moallemi.ir/en/blog/2010/06/03/google-reader-stats-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1389/09/03/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D8%A2%D9%85%D8%A7%D8%B1%D9%87-%DA%AF%D9%88%DA%AF%D9%84-%D8%B1%DB%8C%D8%AF%D8%B1-%D9%84%D8%A7%DB%8C%DA%A9-%D9%81%DB%8C%D8%AF-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3/"
+
+#: auad.php:101
+#: auad.php:105
+#: auad.php:109
+#: auad.php:113
+#: auad.php:117
+#: auad.php:121
+#: auad.php:125
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: auad.php:103
+msgid "Likekhor "
+msgstr "لایک‌خور"
+
+#: auad.php:105
+msgid "http://www.moallemi.ir/blog/1389/04/30/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%84%D8%A7%DB%8C%DA%A9-%D8%AE%D9%88%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3/"
+msgstr "http://www.moallemi.ir/blog/1389/04/30/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%84%D8%A7%DB%8C%DA%A9-%D8%AE%D9%88%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3/"
+
+#: auad.php:107
+msgid "Google Transliteration "
+msgstr "نویسه‌گردان گوگل"
+
+#: auad.php:109
+msgid "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/07/19/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%db%8c-%d9%86%d9%88%db%8c%d8%b3%d9%87-%da%af%d8%b1%d8%af%d8%a7%d9%86-%da%af%d9%88%da%af%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: auad.php:111
+msgid "Behnevis Transliteration "
+msgstr "نویسه‌گردان بهنویس"
+
+#: auad.php:115
+msgid "Comments On Feed "
+msgstr "نظرات در فید"
+
+#: auad.php:117
+msgid "http://www.moallemi.ir/en/blog/2009/12/18/comments-on-feed-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/09/28/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%86%d8%b8%d8%b1%d8%a7%d8%aa-%d8%af%d8%b1-%d9%81%db%8c%d8%af-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: auad.php:119
+msgid "Feed Delay "
+msgstr "تاخیر در فید"
+
+#: auad.php:121
+msgid "http://www.moallemi.ir/en/blog/2010/02/25/feed-delay-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/12/07/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%db%8c%d8%af-%d8%aa%d8%a7%d8%ae%db%8c%d8%b1-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: auad.php:123
+msgid "Contact Commenter "
+msgstr "تماس با نظردهندگان"
+
+#: auad.php:125
+msgid "http://www.moallemi.ir/blog/1388/12/27/%d9%87%d8%af%db%8c%d9%87-%da%a9%d8%a7%d9%88%d8%b4%da%af%d8%b1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%aa-%d8%b3%d8%a7%d9%84-%d9%86%d9%88-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+msgstr "http://www.moallemi.ir/blog/1388/12/27/%d9%87%d8%af%db%8c%d9%87-%da%a9%d8%a7%d9%88%d8%b4%da%af%d8%b1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%aa-%d8%b3%d8%a7%d9%84-%d9%86%d9%88-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: auad.php:212
+msgid "Settings"
+msgstr "تنظیمات"
+

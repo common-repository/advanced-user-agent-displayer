@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced User Agent Displayer v2.7.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-08-19 17:39:20+0000\n"
+"Last-Translator: ppfeufer <develop@ppfeufer.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: auad.php:18
+#@ advanced-user-agent-displayer
+msgid "Advanced User Agent"
+msgstr "Advanced User Agent"
+
+#: auad.php:54
+#@ advanced-user-agent-displayer
+msgid "Settings Saved."
+msgstr "Einstellungen gespeichert"
+
+#: auad.php:61
+#@ advanced-user-agent-displayer
+msgid "Advanced User Agent Displayer Settings"
+msgstr "Advanced User Agent Displayer Einstellungen"
+
+#: auad.php:62
+#@ advanced-user-agent-displayer
+msgid "General Options:"
+msgstr "Generelle Optionen:"
+
+#: auad.php:66
+#@ advanced-user-agent-displayer
+msgid "Hide "
+msgstr "Verberge "
+
+#: auad.php:68
+#@ advanced-user-agent-displayer
+msgid " icons if the browser and user agent are unknown."
+msgstr "Icons, wenn Browser und Betriebssystem unbekannt sind."
+
+#: auad.php:70
+#@ advanced-user-agent-displayer
+msgid "Dashboard Options:"
+msgstr "Dashboard Optionen:"
+
+#: auad.php:71
+#@ advanced-user-agent-displayer
+msgid "Show browser and platform icons in the dashboard comments."
+msgstr "Browser und Betriebssystemicons in den Kommentaren im Dashboard anzeigen."
+
+#: auad.php:72
+#@ advanced-user-agent-displayer
+msgid "Post Options:"
+msgstr "Artikel Optionen:"
+
+#: auad.php:73
+#@ advanced-user-agent-displayer
+msgid "Display location:"
+msgstr "Position:"
+
+#: auad.php:75
+#@ advanced-user-agent-displayer
+msgid "After comment author name"
+msgstr "Nach dem Kommentarautorname"
+
+#: auad.php:76
+#@ advanced-user-agent-displayer
+msgid "After comment date"
+msgstr "Nach dem Kommentardatum"
+
+#: auad.php:77
+#@ advanced-user-agent-displayer
+msgid "Before comment text"
+msgstr "Vor dem Kommentartext"
+
+#: auad.php:78
+#@ advanced-user-agent-displayer
+msgid "After comment text"
+msgstr "Nach dem Kommentartext"
+
+#: auad.php:81
+#@ advanced-user-agent-displayer
+msgid "Icon size:"
+msgstr "Icongröße:"
+
+#: auad.php:90
+#@ advanced-user-agent-displayer
+msgid "Show browser icon."
+msgstr "Browsericon anzeigen."
+
+#: auad.php:91
+#@ advanced-user-agent-displayer
+msgid "show platform icon."
+msgstr "Betriebssystemicon anzeigen."
+
+#: auad.php:93
+#@ advanced-user-agent-displayer
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: auad.php:97
+#@ advanced-user-agent-displayer
+msgid "My other plugins for wordpress:"
+msgstr "Weitere WordPress-Plugins von mir:"
+
+#: auad.php:99
+#@ advanced-user-agent-displayer
+msgid "Google Reader Stats "
+msgstr "Google Reader Stats "
+
+#: auad.php:100
+#: auad.php:104
+#: auad.php:108
+#: auad.php:112
+#: auad.php:116
+#: auad.php:120
+#: auad.php:124
+#@ advanced-user-agent-displayer
+msgid "Download"
+msgstr "Download"
+
+#: auad.php:101
+#@ advanced-user-agent-displayer
+msgid "http://www.moallemi.ir/en/blog/2010/06/03/google-reader-stats-for-wordpress/"
+msgstr "http://www.moallemi.ir/en/blog/2010/06/03/google-reader-stats-for-wordpress/"
+
+#: auad.php:101
+#: auad.php:105
+#: auad.php:109
+#: auad.php:113
+#: auad.php:117
+#: auad.php:121
+#: auad.php:125
+#@ advanced-user-agent-displayer
+msgid "More Information"
+msgstr "Weitere Informationen"
+
+#: auad.php:103
+#@ advanced-user-agent-displayer
+msgid "Likekhor "
+msgstr "Likekhor "
+
+#: auad.php:105
+#, php-format
+#@ google-reader-stats
+msgid "http://www.moallemi.ir/blog/1389/04/30/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%84%D8%A7%DB%8C%DA%A9-%D8%AE%D9%88%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3/"
+msgstr "http://www.moallemi.ir/blog/1389/04/30/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%84%D8%A7%DB%8C%DA%A9-%D8%AE%D9%88%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3/"
+
+#: auad.php:107
+#@ advanced-user-agent-displayer
+msgid "Google Transliteration "
+msgstr "Google Transliteration "
+
+#: auad.php:109
+#@ advanced-user-agent-displayer
+msgid "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+msgstr "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+
+#: auad.php:111
+#@ advanced-user-agent-displayer
+msgid "Behnevis Transliteration "
+msgstr "Behnevis Transliteration "
+
+#: auad.php:115
+#@ advanced-user-agent-displayer
+msgid "Comments On Feed "
+msgstr "Comments On Feed "
+
+#: auad.php:117
+#@ advanced-user-agent-displayer
+msgid "http://www.moallemi.ir/en/blog/2009/12/18/comments-on-feed-for-wordpress/"
+msgstr "http://www.moallemi.ir/en/blog/2009/12/18/comments-on-feed-for-wordpress/"
+
+#: auad.php:119
+#@ advanced-user-agent-displayer
+msgid "Feed Delay "
+msgstr "Feed Delay "
+
+#: auad.php:121
+#@ advanced-user-agent-displayer
+msgid "http://www.moallemi.ir/en/blog/2010/02/25/feed-delay-for-wordpress/"
+msgstr "http://www.moallemi.ir/en/blog/2010/02/25/feed-delay-for-wordpress/"
+
+#: auad.php:123
+#@ advanced-user-agent-displayer
+msgid "Contact Commenter "
+msgstr "Contact Commenter "
+
+#: auad.php:125
+#, php-format
+#@ advanced-user-agent-displayer
+msgid "http://www.moallemi.ir/blog/1388/12/27/%d9%87%d8%af%db%8c%d9%87-%da%a9%d8%a7%d9%88%d8%b4%da%af%d8%b1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%aa-%d8%b3%d8%a7%d9%84-%d9%86%d9%88-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+msgstr "http://www.moallemi.ir/blog/1388/12/27/%d9%87%d8%af%db%8c%d9%87-%da%a9%d8%a7%d9%88%d8%b4%da%af%d8%b1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%aa-%d8%b3%d8%a7%d9%84-%d9%86%d9%88-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: auad.php:212
+#@ advanced-user-agent-displayer
+msgid "Settings"
+msgstr "Einstellungen"
+
